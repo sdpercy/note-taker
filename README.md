@@ -11,6 +11,12 @@ https://true-mountie-19014.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/78440638/124166654-ae999500-da7d-11eb-9a24-1804e1ac7c42.png)
 
+## How to Use
+
+1. Click get started button.
+2. Add a "Note Title" and required "note text"
+3. Click the save icon in the top right of the page to save the note.
+4. Saved notes are displayed on the left side of the page.  To delete a note click the "delete icon".
 
  ## Questions
 
