@@ -7,4 +7,10 @@ This application allows a user to create, save and delete notes to help organize
 
 ![image](https://user-images.githubusercontent.com/78440638/124166654-ae999500-da7d-11eb-9a24-1804e1ac7c42.png)
 
+Inst
 
+ ## Questions
+
+  Find me on GitHub: [sdpercy](https://github.com/sdpercy)<br />
+  <br />
+  Email questions to: scottpercy@hotmail.com<br />
